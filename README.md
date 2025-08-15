@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" />
   <img src="https://logo.svgcdn.com/d/jetpackcompose-original-8x.png" height="50" alt="Jetpack Compose" />
   <img src="https://www.svgrepo.com/show/31053/xml.svg" height="50" alt="XML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="50" alt="Coroutines" />
+  <img src="https://repository-images.githubusercontent.com/61722736/08e87280-62dc-11ea-8fed-a8a4a4ea865d" height="50" alt="Coroutines" />
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CIsDiaiaq7Nc3FEoVKOT9g.jpeg" height="50" alt="Retrofit" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ktor/ktor-original.svg" height="50" alt="Ktor" />
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DiuL6RSGVIdsc1v91BiCMw.png" height="50" alt="Hilt" />
