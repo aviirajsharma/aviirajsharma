@@ -3,7 +3,9 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding GIF" width="400" />
+  <img src=https://developer.android.com/static/images/shared/pointing-1.gif" alt="Android Logo GIF" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding GIF" width="300" />
+  <img src="https://developer.android.com/static/images/community/glow-droid.gif" alt="Android GIF" width="300" />
 </p>
 
 ---
@@ -39,19 +41,27 @@
 
 ## 🧰 Languages & Tools  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" />
+  <img src="https://developer.android.com/static/images/brand/android-head_3D.png" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" />
+   <img src="https://res.cloudinary.com/topaitools/image/upload/v1/logos/gedm9vriipr8uvdthygg?_a=BAMClqTE0/m/1000x593/filters:format(jpg)" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" />
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" />
+  
+  
 </p>
 
 ---
@@ -71,11 +81,11 @@
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://dev.to/aviirajsharma" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="40" /></a>
-  <a href="https://x.com/aviiraj_sharma" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" /></a>
+  <a href="https://x.com/aviiraj_sharma" target="blank"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=360" height="40" /></a>
   <a href="https://linkedin.com/in/avirajsharma" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" /></a>
-  <a href="https://medium.com/@aviirajsharma" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" /></a>
+  <a href="https://medium.com/@aviirajsharma" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn8lWIctmtcu0NSfJjglfEPLvqMM0_he90_qpZcE6ejQzaa9mlydS3ZR5_dxaYATuOTNY&usqp=CAU" height="40" /></a>
   <a href="https://www.leetcode.com/aviraj_sharma" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" /></a>
-  <a href="mailto:avirajkanhaua0413@gmail.com"><img src="https://i.pinimg.com/736x/0f/cf/54/0fcf541cbe9e8a08469b9b14a1367e53.jpg" width="45" /></a>
+  <a href="mailto:avirajkanhaua0413@gmail.com"><img src="https://blog.gimm.io/wp-content/uploads/2022/11/gmail-logo.png" width="45" /></a>
 </p>
 
 ---
