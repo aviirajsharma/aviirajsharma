@@ -3,7 +3,7 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src=https://developer.android.com/static/images/shared/pointing-1.gif" alt="Android Logo GIF" width="300" />
+  <img src="https://developer.android.com/static/images/community/raise-the-roof-droid.gif" alt="Android Logo GIF" width="300" />
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding GIF" width="300" />
   <img src="https://developer.android.com/static/images/community/glow-droid.gif" alt="Android GIF" width="300" />
 </p>
