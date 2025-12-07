@@ -3,7 +3,7 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding GIF" width="400" />
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding GIF" width="400" /> -->
   <img src="assets/glow-droid.gif" alt="Android GIF" width="400" />
 </p>
 
